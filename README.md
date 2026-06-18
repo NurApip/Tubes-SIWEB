@@ -184,7 +184,7 @@ Akun admin berikut dibuat oleh `DatabaseSeeder`:
 
 | Peran | Email | Password |
 |---|---|---|
-| Admin | `adminfutsal@gmail.com` | `Admin123` |
+| Admin | `adminfutsal@gmail.com` | `admin1234` |
 
 Akun pengguna dapat dibuat melalui halaman registrasi.
 
